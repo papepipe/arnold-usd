@@ -229,6 +229,8 @@ ASTR(useSpecularWorkflow);
 ASTR(utility);
 ASTR(uv);
 ASTR(uvcoords);
+ASTR(nlist);
+ASTR(nidxs);
 ASTR(uvidxs);
 ASTR(uvlist);
 ASTR(varname);
